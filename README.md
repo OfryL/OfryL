@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<div align="center">
+
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://raw.githubusercontent.com/OfryL/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/OfryL/github-stats/master/generated/languages.svg)
+
+</a>
+
+</div>
+
 <!--
 **OfryL/OfryL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
